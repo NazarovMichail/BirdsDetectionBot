@@ -40,7 +40,7 @@
 
 ![](https://github.com/NazarovMichail/BirdyBot/blob/master/img/presentation.gif)
 
-## `Над телеграмм-ботом работали`
+## `Над телеграмм-ботом работали:`
 
 | ФИО | Роль|
 |:---:|:---:|
