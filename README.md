@@ -32,7 +32,7 @@
 
 ![](https://github.com/NazarovMichail/BirdyBot/blob/master/img/pred.png)
 
-И ссылку с подробной информацией о птицах
+4. Возвращает ссылку с подробной информацией о птицах
 
 ![](https://github.com/NazarovMichail/BirdyBot/blob/master/img/info.png)
 
