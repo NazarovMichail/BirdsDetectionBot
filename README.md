@@ -5,7 +5,9 @@
 |№|Приложение|Описание|Название|Язык, фреймворк| 
 |:---:|:---:|:---:|:---:|:---:|
 |1|Телеграмм-бот|Детектирует птиц на фотографии|BirdyBot| Python, aiogram|
-|2|Web-приложение|Детектирует птиц на фотографии| | |
+|2|Web-приложение|Детектирует птиц на фотографии| |[Код](https://github.com/NazarovMichail/BirdyBot/tree/master/BirdyBot) |
+
+[Код](https://github.com/NazarovMichail/BirdyBot/tree/master/BirdyBot)
 
 ## `Задачи`
 
@@ -27,7 +29,7 @@
 
 ![](https://github.com/NazarovMichail/BirdyBot/blob/master/img/load2.png)
 
-3. Бот возвращает фотографию с детектированными птицами
+3. Бот возвращает фотографию с птицами, которых детектировал
 
 ![](https://github.com/NazarovMichail/BirdyBot/blob/master/img/pred.png)
 
@@ -35,8 +37,11 @@
 
 ![](https://github.com/NazarovMichail/BirdyBot/blob/master/img/info.png)
 
+## `Видео-пример`
 
+![](https://github.com/NazarovMichail/BirdyBot/blob/master/img/)
 
+## `Над ботом работали`
 
 
 
