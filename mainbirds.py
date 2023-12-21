@@ -64,7 +64,7 @@ async def proj_info(message: types.Message):
 @dispatcher.message_handler(commands=['start'])
 async def get_keyboard(message: types.Message):
     await message.answer(text=START_TEXT, parse_mode='HTML', reply_markup=kbrd_menu)
-    await bot.send_animation(chat_id=message.from_user.id, animation=open('img/presentation.gif', 'rb'))
+    await bot.send_animation(chat_id=message.from_user.id, animation=open('presentation.gif', 'rb'))
     await message.delete()
 
 
