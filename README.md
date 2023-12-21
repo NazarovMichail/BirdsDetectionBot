@@ -18,6 +18,26 @@
 
 `Телеграмм-бот`
 
+1. На начальном экране нажать /start  
+![](https://github.com/NazarovMichail/BirdyBot/blob/master/img/start.png)
+
+2. Загрузить фотографию с птицами  
+
+![](https://github.com/NazarovMichail/BirdyBot/blob/master/img/load.png)
+
+![](https://github.com/NazarovMichail/BirdyBot/blob/master/img/load2.png)
+
+3. Бот возвращает фотографию с детектированными птицами
+
+![](https://github.com/NazarovMichail/BirdyBot/blob/master/img/pred.png)
+
+И ссылку с подробной информацией о птицах
+
+![](https://github.com/NazarovMichail/BirdyBot/blob/master/img/info.png)
+
+
+
+
 
 
 
