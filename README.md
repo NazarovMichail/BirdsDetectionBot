@@ -4,7 +4,7 @@
 
 |Приложение в телеграмме|Описание|Название|Язык, фреймворк| Код |
 |:---:|:---:|:---:|:---:|:---:|
-|[Ссылка на бот](https://t.me/Minaz_by_nazarov_M_bot)|Детектирует птиц на фотографии|BirdyBot| Python, aiogram| [Телеграмм-бот](https://github.com/NazarovMichail/BirdyBot/tree/master/BirdyBot)|
+|[Ссылка на бот](https://t.me/BirdsDetectionBot)|Детектирует птиц на фотографии|BirdsDetectionBot| Python, aiogram| [Телеграмм-бот](https://github.com/NazarovMichail/BirdyBot/tree/master/BirdyBot)|
 
 
 
